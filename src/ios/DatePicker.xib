@@ -25,7 +25,7 @@
                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CHZ-tf-She">
                             <rect key="frame" x="0.0" y="54" width="320" height="180"/>
                             <subviews>
-                                <datePicker contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="dateAndTime" minuteInterval="1" translatesAutoresizingMaskIntoConstraints="NO" id="SUg-U1-bKY">
+                                <datePicker contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="dateAndTime" minuteInterval="1" style="wheels" translatesAutoresizingMaskIntoConstraints="NO" id="SUg-U1-bKY">
                                     <rect key="frame" x="0.0" y="0.0" width="320" height="162"/>
                                     <date key="date" timeIntervalSinceReferenceDate="408285701.96363503">
                                         <!--2013-12-09 12:41:41 +0000-->
